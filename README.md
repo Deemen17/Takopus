@@ -1,5 +1,6 @@
 # Takopus
  A [a.dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) remix of Deemen17
+ 
  Tako (タコ) in Japanese means octopus. Reasonable right?
  
  Layout available here [KLE](http://www.keyboard-layout-editor.com/#/gists/99550ddc1aa89b46314560bd3104117b).
