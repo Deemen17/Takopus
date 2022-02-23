@@ -10,7 +10,7 @@
  - Kailh Choc V1 (PG1350)
  - Encoder Panasonic EVQWGD001 beside B key
  - 0.91 inch OLED display 128x32 I2C 
- - RGB underglow and led per-key
+ - RGB both underglow and led per-key (SK6812)
  - Tiny switch for toggle powering
  - 2 pins for soldering 3.7V Lithium Ion Battery
  
