@@ -1,4 +1,4 @@
-# Takopus
+# Takopus - WIP
  A [a.dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) remix of Deemen17
  
  Tako (タコ) in Japanese means octopus. Reasonable right?
@@ -13,3 +13,5 @@
  - RGB underglow and led per-key
  - Tiny switch for toggle powering
  - 2 pins for soldering 3.7V Lithium Ion Battery
+ 
+ 
